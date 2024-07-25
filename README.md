@@ -47,7 +47,7 @@ The B-CUBED (Biodiversity Big Data Cube) project is a European initiative aimed 
 Deep learning models have become increasingly prominent in the field of species distribution modelling. These models are capable of processing vast amounts of biodiversity data, effectively capturing the intricate, non-linear relationships between various environmental factors and the presence or absence of species. 
 
 
-##  Datasets
+## Datasets
 
 ### A use case (Belgium, 2010) for species classification using B-CUBED data 
 
