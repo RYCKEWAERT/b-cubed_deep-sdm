@@ -34,7 +34,7 @@
 
 
 ## Objective
-This repository aims to list the advances in algorithms proposed for species distribution modelling in connection with the B-CUBED project: https://b-cubed.eu
+This repository aims to list the advances in algorithms proposed for species distribution modelling related to B-CUBED project: https://b-cubed.eu
 
 
 ## Author
