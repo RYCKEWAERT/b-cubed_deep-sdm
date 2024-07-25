@@ -8,8 +8,6 @@ from librairies.train_models import train_and_eval_models_from_elith
 from librairies.utils import set_seed, get_random_seed_list, disable_warnings
 import os
 
-
-
 class ConfigArgs:
     def __init__(self, config_file=None):
         if config_file:

@@ -27,14 +27,11 @@
 
 
 
-
-
-
-
-
-
 ## Objective
 This repository aims to list the advances in algorithms proposed for species distribution modelling related to B-CUBED project: https://b-cubed.eu
+
+## An important note
+At this stage, the codes in this repository are still under active development. As the project progresses, all the codes will be properly documented and referenced in this section. Additionally, a comprehensive study comparing the different results obtained from these codes is anticipated. Stay tuned for updates and further advancements in the development of the project.
 
 
 ## Author
