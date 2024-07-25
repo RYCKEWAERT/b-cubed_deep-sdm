@@ -1,4 +1,4 @@
-# B-CUBED_DEEP_SDM
+# B-CUBED/ Deep learning methods for Species Distribution Modelling
 
 ## Objective
 This repository aims to list the advances in algorithms proposed for species distribution modelling in connection with the B-CUBED project: https://b-cubed.eu
