@@ -1,7 +1,7 @@
 # B-CUBED_DEEP_SDM
 
 ## Objective
-This repository aims to list the advances in algorithms proposed for species distribution modelling in connection with the B-CUBED project.
+This repository aims to list the advances in algorithms proposed for species distribution modelling in connection with the B-CUBED project: https://b-cubed.eu
 
 
 ## Author
@@ -19,7 +19,9 @@ Deep learning models have become increasingly prominent in the field of species 
 ### A use case (Belgium, 2010) for species classification using B-CUBED data 
 
 #### Biodiversity Data
-This dataset is a typical biodiversity dataset from the B-CUBED project in Belgium. It represents a subset from the year 2010, extracted from a more comprehensive dataset. The data is organized into spatial cubes to facilitate detailed biodiversity analysis for that year. For more information and access to the full dataset, please refer to the following resources.[https://www.gbif.org/occurrence/download/0096919-240321170329656](https://doi.org/10.15468/dl.e3j5kv).
+This dataset is a typical biodiversity dataset from the B-CUBED project in Belgium. It represents a subset from the year 2010, extracted from a more comprehensive dataset. The data is organized into spatial cubes to facilitate detailed biodiversity analysis for that year. For more information and access to the full dataset, please refer to the following resources: 
+- https://www.gbif.org/occurrence/download/0096919-240321170329656
+- https://doi.org/10.15468/dl.e3j5kv.
 
 #### Bioclimatic Rasters 
 
