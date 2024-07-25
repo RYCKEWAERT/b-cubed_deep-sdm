@@ -30,6 +30,7 @@ The full dataset is available : https://chelsa-climate.org/bioclim/
 
 ### A subset from the National Centre for Ecological Analysis and Synthesis (NCEAS)
 
-This subset is derived from the openly released recently (Elith et al., 2020), this subset includes presence-only and presence-absence data from Switzerland (SWI). It comprises data for 30 anonymized species from different biological groups. The dataset contains different environmental predictive variables for each region, including climatic, soil variables or location information (more details in Elith et al., 2020). If you use this dataset, please cite: 
+This subset is derived from the openly released recently (Elith et al., 2020), this subset includes presence-only and presence-absence data from Switzerland (SWI). It comprises data for 30 anonymized species from different biological groups. The dataset contains different environmental predictive variables for each region, including climatic, soil variables or location information (more details in Elith et al., 2020). If you use this dataset, please cite Elith et al., 2020. 
+
 Elith, J., Graham, C., Valavi, R., Abegg, M., Bruce, C., Ford, A., Guisan, A., Hijmans, R. J., Huettmann, F., Lohmann, L., Loiselle, B., Moritz, C., Overton, J., Peterson, A. T., Phillips, S., Richardson, K., Williams, S., Wiser, S. K., Wohlgemuth, T., & Zimmermann, N. E. (2020). Presence-only and Presence-absence Data for Comparing Species Distribution Modeling Methods. Biodiversity Informatics, 15(2), Article 2. https://doi.org/10.17161/bi.v15i2.13384
 
