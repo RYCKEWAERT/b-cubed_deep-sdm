@@ -1,4 +1,8 @@
-# B-CUBED_IA
+# B-CUBED_DEEP_LEARNING_METHODS
+
+## Objective
+This repository aims to list the advances in algorithms proposed for species distribution modelling in connection with the B-CUBED project.
+
 
 ## Author
 Maxime RYCKEWAERT (Inria)
@@ -8,11 +12,6 @@ The B-CUBED (Biodiversity Big Data Cube) project is a European initiative aimed 
 
 ## Deep-Learning algorithms for Species Distribution Modelling
 Deep learning models have become increasingly prominent in the field of species distribution modelling. These models are capable of processing vast amounts of biodiversity data, effectively capturing the intricate, non-linear relationships between various environmental factors and the presence or absence of species. 
-
-
-## Objective
-This repository aims to list the advances in algorithms proposed for species distribution modelling in connection with the B-CUBED project.
-
 
 
 ##  Datasets
