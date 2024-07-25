@@ -1,12 +1,12 @@
-from librairies.train_models import train_and_eval_models_belgium
-from librairies.utils import set_seed, get_random_seed_list, disable_warnings, import_belgium_data
-import os
-
 ########################################################################################
 # Launcher to run a BCUBED data from Belgium (2010), for species classification
 # The data is composed of 19 raster files and a csv file with the species information
 # The data is split into train, validation and test sets
 # The model is a MLP with a CrossEntropy loss for classification
+# 
+from librairies.train_models import train_and_eval_models_belgium
+from librairies.utils import set_seed, get_random_seed_list, disable_warnings, import_belgium_data
+import os
 
 class ConfigArgs:
     def __init__(self, config_file=None):

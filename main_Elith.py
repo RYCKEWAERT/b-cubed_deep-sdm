@@ -1,14 +1,14 @@
-# Description: Main file to run the code    
-#
-from librairies.train_models import train_and_eval_models_from_elith
-from librairies.utils import set_seed, get_random_seed_list, disable_warnings
-import os
-
 ########################################################################################
 # Launcher to run a subset of the Elith et al. 2020 dataset, 
 # The data is composed of SWI region
 # The model is calibrated on presence-only data using a MLP to have species intensities
 # The evaluation is performed with AUC on the test set of Presence Absence data
+
+from librairies.train_models import train_and_eval_models_from_elith
+from librairies.utils import set_seed, get_random_seed_list, disable_warnings
+import os
+
+
 
 class ConfigArgs:
     def __init__(self, config_file=None):
