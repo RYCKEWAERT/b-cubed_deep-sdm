@@ -1,5 +1,38 @@
 # B-CUBED/ Deep learning methods for Species Distribution Modelling
 
+<a name="readme-top"></a>
+
+<p align="center">
+  <a href="https://github.com/RYCKEWAERT/b-cubed_deep-sdm/graphs/contributors"><img src="https://img.shields.io/github/contributors/RYCKEWAERT/b-cubed_deep-sdm" alt="GitHub contributors"></a>
+  <a href="https://github.com/RYCKEWAERT/b-cubed_deep-sdm/network/members"><img src="https://img.shields.io/github/forks/RYCKEWAERT/b-cubed_deep-sdm" alt="GitHub forks"></a>
+  <a href="https://github.com/RYCKEWAERT/b-cubed_deep-sdm/issues"><img src="https://img.shields.io/github/issues/RYCKEWAERT/b-cubed_deep-sdm" alt="GitHub issues"></a>
+  <a href="https://github.com/RYCKEWAERT/b-cubed_deep-sdm/blob/main/LICENSE"><img src="https://img.shields.io/github/license/RYCKEWAERT/b-cubed_deep-sdm" alt="License"></a>
+  <a href="https://github.com/RYCKEWAERT/b-cubed_deep-sdm/pulls"><img src="https://img.shields.io/github/issues-pr/RYCKEWAERT/b-cubed_deep-sdm" alt="GitHub pull requests"></a>
+  <a href="https://github.com/RYCKEWAERT/b-cubed_deep-sdm/stargazers"><img src="https://img.shields.io/github/stars/RYCKEWAERT/b-cubed_deep-sdm" alt="GitHub stars"></a>
+  <a href="https://github.com/RYCKEWAERT/b-cubed_deep-sdm/watchers"><img src="https://img.shields.io/github/watchers/RYCKEWAERT/b-cubed_deep-sdm" alt="GitHub watchers"></a>
+</p>
+
+
+<div align="center">
+  <img src="images/B3_logomark.png" alt="Project logo" width="100">
+  <h2 align="center">b-cubed_deep-sdm</h2>
+  <p align="center">Deep learning methods in B-CUBED project</p>
+  <a href="https://github.com/RYCKEWAERT/b-cubed_deep-sdm">View project</a>
+  ·
+  <a href="https://github.com/RYCKEWAERT/b-cubed_deep-sdm/issues">Report Bug</a>
+  ·
+  <a href="https://github.com/RYCKEWAERT/b-cubed_deep-sdm/issues">Request Feature</a>
+  <h1></h1>
+</div>
+
+
+
+
+
+
+
+
+
 ## Objective
 This repository aims to list the advances in algorithms proposed for species distribution modelling in connection with the B-CUBED project: https://b-cubed.eu
 
