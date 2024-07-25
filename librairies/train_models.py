@@ -1,6 +1,6 @@
 import os
 import wandb
-from librairies.mlp import train_custom_model_realdataset,train_classification_model
+from librairies.models import train_custom_model_realdataset,train_classification_model
 import numpy as np
 import torch
 from sklearn.preprocessing import StandardScaler
